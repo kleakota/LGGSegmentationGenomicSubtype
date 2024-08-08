@@ -1,5 +1,5 @@
 # LGGSegmentationGenomicSubtype
-This is a Deep Learning project which aims to segment and extract radiomic features from LGGs and find significant associations between the tumor features and genomic subtypes. The project compares between two segmentation techniques of UNET with different backbones, to continue into statistical analysis in relation to genomic subtypes. These results serve as potential future biomarkers for determining brain tumor biology, growth, aggressiveness and survival rate.
+This is a Deep Learning diploma project which aims to segment and extract radiomic features from LGGs and find significant associations between the tumor features and genomic subtypes. The project compares between two segmentation techniques of UNET with different backbones, to continue into statistical analysis in relation to genomic subtypes. These results serve as potential future biomarkers for determining brain tumor biology, growth, aggressiveness and survival rate.
 
 - LGG Classification (Positive or Negative with ResNet50)
 - LGG Segmentation (UNET)
